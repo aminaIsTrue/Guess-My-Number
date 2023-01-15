@@ -2,6 +2,8 @@
 
 ## My first game (Working on fundamental DOM manipulation)
 
+### Take a look: https://guess-correct-number.netlify.app/
+
 This game prompt you to guess a number between 1 and 20.
 
 You have 20 tries to guess the number
